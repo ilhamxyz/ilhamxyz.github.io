@@ -19,9 +19,3 @@ title: Ilham's corner
     </a>
     {% endfor %}
 </div>
-
-<br />
-<hr />
-<blockquote>
-Wechat:2286611044&nbsp;|&nbsp;<a href="http://github.com/ilhamxyz/">Github</a>
-</blockquote>
