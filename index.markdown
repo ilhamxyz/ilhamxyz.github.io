@@ -11,12 +11,8 @@ title: Ilham's corner
     {% endfor %}
 </ul>
 
-<p><b>ئىزدىشىپ تۇرامدۇق</b></p>
-
-<ul>
-	<li><a href="http://github.com/ilhamxyz/">Github</a></li>
-</ul>
-<p><br /><b>ئالاقىلشىش:</b></p>
+<br />
 <blockquote>
 Wechat:2286611044
+<a href="http://github.com/ilhamxyz/">Github</a>
 </blockquote>
