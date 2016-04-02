@@ -24,6 +24,9 @@ body{
 .header .navbar li a{
 	color: #BDC3C7;
 }
+.header .navbar li a:hover{
+	color: #ECF0F1;
+}
 .header .banner{
-	color:#C0392B;
+	color:#BDC3C7;
 }
