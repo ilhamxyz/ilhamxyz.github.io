@@ -4,11 +4,11 @@ body{
 }
 .header{
 	direction: rtl;
-	background: #1ABC9C;
+	background: #3498DB;
 	height: 300px;
 }
 .header .navbar{
-	background: #3498DB;
+	background: #34495E;
 }
 .header .nav{
 	text-align: right;
@@ -54,7 +54,7 @@ body{
 	display: table-cell;
     vertical-align: middle;
     width: 12%;
-    background-color: #00bcd4;
+    background-color: #3498DB;
     text-align: center;
     color: #fff;
     font-size: 1.2em;
