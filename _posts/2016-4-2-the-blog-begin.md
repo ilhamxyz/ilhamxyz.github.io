@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 ---
 ## Synopsis
 For me the only right way to learn a foreign language is to do it the
