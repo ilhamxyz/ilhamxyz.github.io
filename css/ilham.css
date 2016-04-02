@@ -4,5 +4,10 @@ body{
 }
 .header{
 	direction: rtl;
-	background: #2C3E50;
+	background: #1ABC9C;
+}
+.header .navbar{
+	height: 50px;
+	background: #34495E;
+	
 }
