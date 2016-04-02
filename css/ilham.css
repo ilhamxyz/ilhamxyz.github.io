@@ -30,3 +30,18 @@ body{
 .header .banner{
 	color:#34495E;
 }
+.container{
+	width: 960px;
+	margin: 0 auto;
+}
+.posts .item{
+	width: 100%;
+    display: table;
+    text-decoration: none;
+    color: #777777;
+    -webkit-transition: all .5s ease;
+    transition: all .5s ease;
+    margin-top: 1em;
+    background-color: #fff;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+}

@@ -5,11 +5,19 @@ title: Ilham's corner
 
 
 
-<ul class="posts">
+<div class="posts">
     {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    <a class="item" href="{{ post.url }}">
+    	<div class="right">
+    		<p>{{ post.title }}</p>
+    		<span>{{ post.date | date_to_string }}</span>
+    	</div>
+    	<div class="left">
+    		
+    	</div>
+    </a>
     {% endfor %}
-</ul>
+</div>
 
 <br />
 <hr />
