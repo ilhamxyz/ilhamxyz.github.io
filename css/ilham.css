@@ -5,9 +5,18 @@ body{
 .header{
 	direction: rtl;
 	background: #1ABC9C;
+	height: 300px;
 }
 .header .navbar{
-	height: 50px;
 	background: #34495E;
-	
+}
+.header .nav{
+	text-align: right;
+	height: 50px;
+	width: 960px;
+	margin: 0 auto;
+}
+.header .navbar li{
+	float: right;
+	margin-left: 15px;
 }
