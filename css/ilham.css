@@ -66,6 +66,7 @@ body{
 }
 .ug{
 	text-align: right;
+	direction: rtl;
 }
 .footer{
 	width: auto;
