@@ -12,7 +12,8 @@ title: Ilham's corner
 </ul>
 
 <br />
+<hr />
+<br />
 <blockquote>
-Wechat:2286611044
-<a href="http://github.com/ilhamxyz/">Github</a>
+Wechat:2286611044&nbsp;|&nbsp;<a href="http://github.com/ilhamxyz/">Github</a>
 </blockquote>
