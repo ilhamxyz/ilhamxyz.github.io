@@ -18,5 +18,9 @@ body{
 }
 .header .navbar li{
 	float: right;
+	line-height: 50px;
 	margin-left: 15px;
+}
+.header .navbar li a{
+	color: #ECF0F1;
 }
