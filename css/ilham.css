@@ -68,6 +68,9 @@ body{
 	text-align: right;
 	direction: rtl;
 }
+.en{
+	text-align:left;
+}
 .footer{
 	width: auto;
 	height: auto;
